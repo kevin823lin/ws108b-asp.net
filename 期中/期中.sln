@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "期中", ".", "{A7507F8F-D39F-40A3-9BCF-EEDA53541FB5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50980"
+		Debug.AspNetCompiler.PhysicalPath = "D:\檔案\課程\1082\互動式網頁程式設計\期中\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50980\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50980"
+		Release.AspNetCompiler.PhysicalPath = "D:\檔案\課程\1082\互動式網頁程式設計\期中\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50980\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50980"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7507F8F-D39F-40A3-9BCF-EEDA53541FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7507F8F-D39F-40A3-9BCF-EEDA53541FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67B3C86-2995-4843-B616-443BABF13008}
+	EndGlobalSection
+EndGlobal
